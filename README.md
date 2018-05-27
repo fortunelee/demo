@@ -8,3 +8,5 @@ CommandLineRunner 启动加载 <br>
 rabbitmq 同步消费 异步消费 <br> 
 ################################# <br> 
 redis 整合 <br> 
+################################# <br> 
+controller层异常信息统一处理 <br> 
